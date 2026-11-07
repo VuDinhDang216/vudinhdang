@@ -1,0 +1,2 @@
+# Thư viện kiểm thử (tùy chọn, dự án có thể chạy trực tiếp bằng module unittest có sẵn)
+pytest>=7.0.0
